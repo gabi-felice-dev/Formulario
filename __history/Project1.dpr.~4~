@@ -1,0 +1,18 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  U_Main in 'U_Main.pas' {Form1},
+  U_Texto in 'U_Texto.pas' {FrmTexto},
+  U_Imagem in 'U_Imagem.pas' {FrmImagem};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TFrmTexto, FrmTexto);
+  Application.CreateForm(TFrmImagem, FrmImagem);
+  Application.Run;
+end.
