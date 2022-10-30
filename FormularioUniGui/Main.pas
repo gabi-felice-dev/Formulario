@@ -1,0 +1,73 @@
+unit Main;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics,
+  Controls, Forms, uniGUITypes, uniGUIAbstractClasses,
+  uniGUIClasses, uniGUIRegClasses, uniGUIForm, uniButton, uniEdit,
+  uniGUIBaseClasses, uniCheckBox;
+
+type
+  TMainForm = class(TUniForm)
+    UniCheckBox1: TUniCheckBox;
+    UniEdit1: TUniEdit;
+    UniEdit2: TUniEdit;
+    UniEdit3: TUniEdit;
+    UniButton1: TUniButton;
+    procedure UniFormCreate(Sender: TObject);
+    procedure AtivaTUniEdit(status : Boolean);
+    procedure UniButton1Click(Sender: TObject);
+    procedure UniButton2Click(Sender: TObject);
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+function MainForm: TMainForm;
+
+implementation
+
+{$R *.dfm}
+
+uses
+  uniGUIVars, MainModule, uniGUIApplication, uGrid;
+
+function MainForm: TMainForm;
+begin
+  Result := TMainForm(UniMainModule.GetFormInstance(TMainForm));
+end;
+
+procedure TMainForm.AtivaTUniEdit(status: Boolean);
+var cont : integer;
+begin
+    for cont := 0 to Self.ComponentCount -1 do
+    begin
+      if (Self.Components[cont] is TUniEdit) then
+        (Self.Components[cont] as TUniEdit).Enabled := status;
+    end;
+end;
+
+procedure TMainForm.UniButton1Click(Sender: TObject);
+begin
+    AtivaTUniEdit(true);
+end;
+
+procedure TMainForm.UniButton2Click(Sender: TObject);
+begin
+    MainForm.Hide;
+    //FrmGrid := TFrmGrid.Create(Self);  se não fosse auto create
+    FrmGrid.Show;
+end;
+
+procedure TMainForm.UniFormCreate(Sender: TObject);
+begin
+    AtivaTUniEdit(false);
+end;
+
+initialization
+  RegisterAppFormClass(TMainForm);
+
+end.

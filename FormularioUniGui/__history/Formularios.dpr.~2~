@@ -1,0 +1,35 @@
+{$define UNIGUI_VCL} // Comment out this line to turn this project into an ISAPI module
+
+{$ifndef UNIGUI_VCL}
+library
+{$else}
+program
+{$endif}
+  Formularios;
+
+uses
+  uniGUIISAPI,
+  Forms,
+  ServerModule in 'ServerModule.pas' {UniServerModule: TUniGUIServerModule},
+  MainModule in 'MainModule.pas' {UniMainModule: TUniGUIMainModule},
+  Main in 'Main.pas' {MainForm: TUniForm},
+  uGrid in 'uGrid.pas' {FrmGrid};
+
+{$R *.res}
+
+{$ifndef UNIGUI_VCL}
+exports
+  GetExtensionVersion,
+  HttpExtensionProc,
+  TerminateExtension;
+{$endif}
+
+begin
+{$ifdef UNIGUI_VCL}
+  ReportMemoryLeaksOnShutdown := True;
+  Application.Initialize;
+  TUniServerModule.Create(Application);
+  Application.CreateForm(TFrmGrid, FrmGrid);
+  Application.Run;
+{$endif}
+end.

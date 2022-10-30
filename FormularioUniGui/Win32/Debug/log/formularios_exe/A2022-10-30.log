@@ -1,0 +1,168 @@
+Formularios.exe: 00002AD4: 10:07:29 []:>--------------------------------------------------------------<
+Formularios.exe: 00002AD4: 10:07:29 [TUniServerModule]:Server First Init.
+Formularios.exe: 00002AD4: 10:07:29 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00002AD4: 10:07:29 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00002AD4: 10:07:29 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00002AD4: 10:07:29 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00000A98: 10:11:57 []:>--------------------------------------------------------------<
+Formularios.exe: 00000A98: 10:11:57 [TUniServerModule]:Server First Init.
+Formularios.exe: 00000A98: 10:11:57 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00000A98: 10:11:57 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00000A98: 10:11:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00000A98: 10:11:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00000A98: 10:15:02 [TUniServerModule]:Shutting Down Server.
+Formularios.exe: 00000A98: 10:15:02 [TUniServerModule]:Stopping HTTP Server.
+Formularios.exe: 00000A98: 10:15:02 [TUniServerModule]:HTTP Server Stopped.
+Formularios.exe: 00000A98: 10:15:02 [TUniGUISessionManager]:Terminating Session manager.
+Formularios.exe: 00000A98: 10:15:02 [TUniGUISessionManager]:Stopping Cache Eraser...
+Formularios.exe: 00000A98: 10:15:02 [TUniGUISessionManager]:Cache Eraser Stopped.
+Formularios.exe: 00000A98: 10:15:02 [TUniGUISessionManager]:Destroying Worker Threads.
+Formularios.exe: 00000A98: 10:15:02 [TUniGUISessionManager]:Session manager terminated.
+Formularios.exe: 00000A98: 10:15:02 [TUniServerModule]:Server Shutdown Completed.
+Formularios.exe: 00000A98: 10:15:02 []:<-------------------------------------------------------------->
+Formularios.exe: 00000A98: 10:15:02 [Terminated]:Exit Code: 0
+Formularios.exe: 000046C4: 10:15:14 []:>--------------------------------------------------------------<
+Formularios.exe: 000046C4: 10:15:14 [TUniServerModule]:Server First Init.
+Formularios.exe: 000046C4: 10:15:14 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 000046C4: 10:15:14 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 000046C4: 10:15:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 000046C4: 10:15:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00001B9C: 10:16:11 []:>--------------------------------------------------------------<
+Formularios.exe: 00001B9C: 10:16:11 [TUniServerModule]:Server First Init.
+Formularios.exe: 00001B9C: 10:16:11 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00001B9C: 10:16:12 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00001B9C: 10:16:12 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00001B9C: 10:16:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00001B9C: 10:16:12 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00003060: 10:16:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: MdKgn8rsZ110B69AF09 ) : Addr: $007B464B
+Formularios.exe: 00000850: 10:16:32 []:>--------------------------------------------------------------<
+Formularios.exe: 00000850: 10:16:32 [TUniServerModule]:Server First Init.
+Formularios.exe: 00000850: 10:16:32 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00000850: 10:16:32 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00000850: 10:16:32 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00000850: 10:16:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00000850: 10:16:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00004E30: 10:16:45 []:>--------------------------------------------------------------<
+Formularios.exe: 00004E30: 10:16:45 [TUniServerModule]:Server First Init.
+Formularios.exe: 00004E30: 10:16:45 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00004E30: 10:16:45 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00004E30: 10:16:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00004E30: 10:16:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 000041A0: 10:30:10 []:>--------------------------------------------------------------<
+Formularios.exe: 000041A0: 10:30:10 [TUniServerModule]:Server First Init.
+Formularios.exe: 000041A0: 10:30:11 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 000041A0: 10:30:11 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 000041A0: 10:30:11 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 000041A0: 10:30:11 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 0000435C: 10:32:21 []:>--------------------------------------------------------------<
+Formularios.exe: 0000435C: 10:32:21 [TUniServerModule]:Server First Init.
+Formularios.exe: 0000435C: 10:32:22 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 0000435C: 10:32:22 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 0000435C: 10:32:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 0000435C: 10:32:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00003098: 10:34:13 []:>--------------------------------------------------------------<
+Formularios.exe: 00003098: 10:34:13 [TUniServerModule]:Server First Init.
+Formularios.exe: 00003098: 10:34:13 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00003098: 10:34:13 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00003098: 10:34:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00003098: 10:34:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00003098: 10:39:02 [TUniServerModule]:Shutting Down Server.
+Formularios.exe: 00003098: 10:39:02 [TUniServerModule]:Stopping HTTP Server.
+Formularios.exe: 00003098: 10:39:03 [TUniServerModule]:HTTP Server Stopped.
+Formularios.exe: 00003098: 10:39:03 [TUniGUISessionManager]:Terminating Session manager.
+Formularios.exe: 00003098: 10:39:03 [TUniGUISessionManager]:Stopping Cache Eraser...
+Formularios.exe: 00003098: 10:39:03 [TUniGUISessionManager]:Cache Eraser Stopped.
+Formularios.exe: 00003098: 10:39:03 [TUniGUISessionManager]:Destroying Worker Threads.
+Formularios.exe: 00003098: 10:39:03 [TUniGUISessionManager]:Session manager terminated.
+Formularios.exe: 00003098: 10:39:03 [TUniServerModule]:Server Shutdown Completed.
+Formularios.exe: 00003098: 10:39:03 []:<-------------------------------------------------------------->
+Formularios.exe: 00003098: 10:39:03 [Terminated]:Exit Code: 0
+Formularios.exe: 00005770: 10:39:07 []:>--------------------------------------------------------------<
+Formularios.exe: 00005770: 10:39:07 [TUniServerModule]:Server First Init.
+Formularios.exe: 00005770: 10:39:07 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00005770: 10:39:07 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00005770: 10:39:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00005770: 10:39:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 000037B4: 10:41:22 []:>--------------------------------------------------------------<
+Formularios.exe: 000037B4: 10:41:22 [TUniServerModule]:Server First Init.
+Formularios.exe: 000037B4: 10:41:22 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 000037B4: 10:41:22 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 000037B4: 10:41:22 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 000037B4: 10:41:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 000037B4: 10:41:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00004AC4: 10:45:25 []:>--------------------------------------------------------------<
+Formularios.exe: 00004AC4: 10:45:25 [TUniServerModule]:Server First Init.
+Formularios.exe: 00004AC4: 10:45:25 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00004AC4: 10:45:25 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00004AC4: 10:45:25 [TUniGUISessionManager]:Cache erase job created, Folder count: [2]
+Formularios.exe: 00004AC4: 10:45:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00004AC4: 10:45:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00002FF8: 10:56:33 []:>--------------------------------------------------------------<
+Formularios.exe: 00002FF8: 10:56:33 [TUniServerModule]:Server First Init.
+Formularios.exe: 00002FF8: 10:56:33 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00002FF8: 10:56:33 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00002FF8: 10:56:33 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00002FF8: 10:56:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00002FF8: 10:56:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 000043BC: 10:56:57 [127.0.0.1]:EOSError : System Error.  Code: 5.
+Acesso negado : Addr: $00432374
+Formularios.exe: 000009C4: 10:57:56 []:>--------------------------------------------------------------<
+Formularios.exe: 000009C4: 10:57:56 [TUniServerModule]:Server First Init.
+Formularios.exe: 000009C4: 10:57:56 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 000009C4: 10:57:56 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 000009C4: 10:57:56 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 000009C4: 10:57:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 000009C4: 10:57:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 000048CC: 10:59:12 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XNhyP3qSBg10B69BA26 ) : Addr: $007B464B
+Formularios.exe: 00004FA0: 10:59:20 []:>--------------------------------------------------------------<
+Formularios.exe: 00004FA0: 10:59:20 [TUniServerModule]:Server First Init.
+Formularios.exe: 00004FA0: 10:59:20 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00004FA0: 10:59:20 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00004FA0: 10:59:20 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00004FA0: 10:59:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00004FA0: 10:59:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 000057FC: 11:00:06 [127.0.0.1]:EOSError : System Error.  Code: 5.
+Acesso negado : Addr: $00432374
+Formularios.exe: 00002ECC: 11:00:55 []:>--------------------------------------------------------------<
+Formularios.exe: 00002ECC: 11:00:55 [TUniServerModule]:Server First Init.
+Formularios.exe: 00002ECC: 11:00:55 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00002ECC: 11:00:55 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00002ECC: 11:00:55 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00002ECC: 11:00:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00002ECC: 11:00:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 0000486C: 11:02:46 [127.0.0.1]:EAccessViolation : Access violation at address 0062600C in module 'Formularios.exe'. Write of address 0000001E : Addr: $0062600C
+Formularios.exe: 00003524: 11:03:10 []:>--------------------------------------------------------------<
+Formularios.exe: 00003524: 11:03:10 [TUniServerModule]:Server First Init.
+Formularios.exe: 00003524: 11:03:10 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00003524: 11:03:10 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00003524: 11:03:10 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00003524: 11:03:10 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00003524: 11:03:10 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00004508: 11:04:05 []:>--------------------------------------------------------------<
+Formularios.exe: 00004508: 11:04:05 [TUniServerModule]:Server First Init.
+Formularios.exe: 00004508: 11:04:05 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00004508: 11:04:05 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00004508: 11:04:05 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00004508: 11:04:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00004508: 11:04:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 0000399C: 11:04:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zTH7Gzt4Ap10B69BBFE ) : Addr: $007B464B
+Formularios.exe: 00004958: 11:05:28 []:>--------------------------------------------------------------<
+Formularios.exe: 00004958: 11:05:28 [TUniServerModule]:Server First Init.
+Formularios.exe: 00004958: 11:05:28 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00004958: 11:05:28 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00004958: 11:05:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00004958: 11:05:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 000041A8: 11:06:43 []:>--------------------------------------------------------------<
+Formularios.exe: 000041A8: 11:06:43 [TUniServerModule]:Server First Init.
+Formularios.exe: 000041A8: 11:06:43 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 000041A8: 11:06:43 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 000041A8: 11:06:43 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 000041A8: 11:06:43 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 000041A8: 11:06:43 [TUniServerModule]:HTTP Server Started on Port: 8077
+Formularios.exe: 00002454: 11:08:12 []:>--------------------------------------------------------------<
+Formularios.exe: 00002454: 11:08:12 [TUniServerModule]:Server First Init.
+Formularios.exe: 00002454: 11:08:12 [TUniServerModule]:Start Path = C:\Git\Delphi\Formularios\Win32\Debug\
+Formularios.exe: 00002454: 11:08:12 [TUniServerModule]:Debug Mode = ON
+Formularios.exe: 00002454: 11:08:12 [TUniGUISessionManager]:Cache erase job created, Folder count: [1]
+Formularios.exe: 00002454: 11:08:12 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Formularios.exe: 00002454: 11:08:12 [TUniServerModule]:HTTP Server Started on Port: 8077

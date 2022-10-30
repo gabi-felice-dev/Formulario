@@ -1,0 +1,26 @@
+object FrmGrid: TFrmGrid
+  Left = 0
+  Top = 0
+  Caption = 'FrmGrid'
+  ClientHeight = 320
+  ClientWidth = 630
+  Color = clWhite
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Voltar: TUniButton
+    Left = 534
+    Top = 280
+    Width = 75
+    Height = 25
+    Hint = ''
+    Caption = 'Voltar'
+    TabOrder = 0
+    OnClick = VoltarClick
+  end
+end

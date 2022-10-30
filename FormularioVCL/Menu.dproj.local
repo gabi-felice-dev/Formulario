@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/19 08:10:58.000.069,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/19 11:39:38.000.763,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/23 12:09:51.000.619,=C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/23 12:10:39.000.899,=C:\Git\Delphi\Formulario\U_Main.pas</Transaction>
+    <Transaction>2022/10/23 12:10:49.000.772,C:\Users\gabri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Git\Delphi\Formulario\Project1.dproj</Transaction>
+    <Transaction>2022/10/23 12:13:37.000.635,=C:\Git\Delphi\Formulario\Unit2.pas</Transaction>
+    <Transaction>2022/10/23 12:14:24.000.247,C:\Git\Delphi\Formulario\Unit2.dfm=C:\Git\Delphi\Formulario\U_Texto.dfm</Transaction>
+    <Transaction>2022/10/23 12:14:24.000.247,C:\Git\Delphi\Formulario\Unit2.pas=C:\Git\Delphi\Formulario\U_Texto.pas</Transaction>
+    <Transaction>2022/10/23 12:16:27.000.059,=C:\Git\Delphi\Formulario\Unit3.pas</Transaction>
+    <Transaction>2022/10/23 12:20:36.000.389,C:\Git\Delphi\Formulario\Unit3.dfm=C:\Git\Delphi\Formulario\U_Imagem.dfm</Transaction>
+    <Transaction>2022/10/23 12:20:36.000.389,C:\Git\Delphi\Formulario\Unit3.pas=C:\Git\Delphi\Formulario\U_Imagem.pas</Transaction>
+    <Transaction>2022/10/23 12:26:35.000.740,C:\Git\Delphi\Formulario\Project1.dproj=C:\Git\Delphi\Formulario\Menu.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="U_Imagem.pas"/>
+    <File Path="U_Imagem.dfm"/>
+    <File Path="U_Main.pas"/>
+    <File Path="U_Main.dfm"/>
+    <File Path="U_Texto.pas"/>
+    <File Path="U_Texto.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

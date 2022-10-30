@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/10/30 10:06:05.671,=C:\Git\Delphi\Formularios\ServerModule.pas</Transaction>
+    <Transaction>2022/10/30 10:06:05.773,=C:\Git\Delphi\Formularios\MainModule.pas</Transaction>
+    <Transaction>2022/10/30 10:06:07.992,=C:\Git\Delphi\Formularios\Main.pas</Transaction>
+    <Transaction>2022/10/30 10:46:55.815,=C:\Git\Delphi\Formularios\Unit1.pas</Transaction>
+    <Transaction>2022/10/30 10:49:32.508,C:\Git\Delphi\Formularios\uGrid.dfm=C:\Git\Delphi\Formularios\Unit1.dfm</Transaction>
+    <Transaction>2022/10/30 10:49:32.508,C:\Git\Delphi\Formularios\uGrid.pas=C:\Git\Delphi\Formularios\Unit1.pas</Transaction>
+    <Transaction>2022/10/30 11:08:53.606,=C:\Git\Delphi\Formularios\Unit1.pas</Transaction>
+    <Transaction>2022/10/30 11:09:12.504,=C:\Git\Delphi\Formularios\Unit1.pas</Transaction>
+    <Transaction>2022/10/30 11:11:13.902,C:\Git\Delphi\Formularios\uGrid.pas=</Transaction>
+    <Transaction>2022/10/30 11:12:02.958,=C:\Git\Delphi\Formularios\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
